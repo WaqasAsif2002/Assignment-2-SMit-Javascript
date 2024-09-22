@@ -208,7 +208,7 @@ alert("car is smaller than cat");}
 
 
 
-____________________________________
+// ____________________________________
 
 // Q6 chat 9 to 11
 let firstsubj = prompt(`Enter First Subject Name`);
@@ -274,7 +274,7 @@ else(
     document.write(`Please Enter valid Answer Between 1 to 10!`)
 )
 
-________________________________________
+// ________________________________________
 
 
 
@@ -289,7 +289,7 @@ else{
     document.write(`Number is Not Divisible By 3`)
 }
 
-________________________________
+// ________________________________
 
 var Number = +prompt(`Enter number Check Divisible Even or Odd`)
 
@@ -302,7 +302,7 @@ else{
     document.write(`The Number is Odd`)
 }
 
-____________________________________
+// ____________________________________
 
 
 
@@ -322,7 +322,7 @@ if (temperature > 40) {
 }
 
 
-________________________________
+// ________________________________
 
 
 
